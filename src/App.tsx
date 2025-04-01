@@ -3,7 +3,7 @@ import React from "react";
 export default function App() {
   return (
     <div style={{ padding: "2rem", fontFamily: "Arial, sans-serif" }}>
-      <h1>Huruma Dashboard v1 🚀</h1>
+      <h1>Huruma Dashboard v1 </h1>
       
       <div style={{ marginTop: "2rem" }}>
         <h2>📊 Key Stats</h2>
